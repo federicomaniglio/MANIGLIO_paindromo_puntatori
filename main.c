@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-    char stringa[] = "la turso non aveva nipoti";
+    char stringa[] = "i topi non avevano nipoti";
     char *inizio = stringa;
     char *fine = stringa;
     while (*fine != '\0') {
